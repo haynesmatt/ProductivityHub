@@ -1,0 +1,20 @@
+#root {
+  height: 100vh; /* Set height to 100% of viewport height */
+  width: 100vw; /* Set width to 100% of viewport width */
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #fdf8e1;
+  color: #080708;
+}
+
+.sorting {
+  display: flex;
+  align-items: center;
+  padding: 16px 150px;
+}
+
+button {
+  margin: 8px;
+}

@@ -1,0 +1,25 @@
+.Card {
+    margin: 10px 150px;
+    background-color: #fffffa;
+    height: 150px;
+    border-radius: 25px;
+}
+
+.date {
+    color: gray;
+    text-align: left;
+    padding: 10px 0 0 20px;
+}
+
+.title {
+    color: #000000;
+    text-align: left;
+    padding: 0 20px;
+}
+
+.upvotes {
+    color: #000000;
+    margin: -60px;
+    text-align: left;
+    padding: 0 80px;
+}
