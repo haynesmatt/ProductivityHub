@@ -18,14 +18,19 @@
 }
 
 .description {
-    color: orange;
+    color: #000000;
     text-align: left;
-    padding: -100px 0 0 20px;
+    padding: 0 0 0 20px;
 }
 
 .upvotes-button {
     background-color: #fffffa;
+    color: black;
     display: flex;
     align-items: left;
     margin: 10px;
+}
+
+.delete-button {
+    background-color: darkred;
 }

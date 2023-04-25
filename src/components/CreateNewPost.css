@@ -24,6 +24,7 @@ input {
 
 .title {
     height: 100px;
+    padding: 0;
 }
 
 .action-button {
